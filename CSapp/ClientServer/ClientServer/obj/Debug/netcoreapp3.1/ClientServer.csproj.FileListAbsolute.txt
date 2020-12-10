@@ -1,0 +1,13 @@
+C:\Users\1710513\source\repos\ClientServer\ClientServer\bin\Debug\netcoreapp3.1\ClientServer.exe
+C:\Users\1710513\source\repos\ClientServer\ClientServer\bin\Debug\netcoreapp3.1\ClientServer.deps.json
+C:\Users\1710513\source\repos\ClientServer\ClientServer\bin\Debug\netcoreapp3.1\ClientServer.runtimeconfig.json
+C:\Users\1710513\source\repos\ClientServer\ClientServer\bin\Debug\netcoreapp3.1\ClientServer.runtimeconfig.dev.json
+C:\Users\1710513\source\repos\ClientServer\ClientServer\bin\Debug\netcoreapp3.1\ClientServer.dll
+C:\Users\1710513\source\repos\ClientServer\ClientServer\bin\Debug\netcoreapp3.1\ClientServer.pdb
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.csprojAssemblyReference.cache
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.AssemblyInfoInputs.cache
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.AssemblyInfo.cs
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.dll
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.pdb
+C:\Users\1710513\source\repos\ClientServer\ClientServer\obj\Debug\netcoreapp3.1\ClientServer.genruntimeconfig.cache
